@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Maisa
 - 🔭 I’m currently working on 2 projects: <br/>
-                  -  Vue.js 3, Electron and Django project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
-                  -  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/upfit-project](https://github.com/maisappreis/dental-clinic-web-system)))
+                  --->  Vue.js 3, Electron and Django project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
+                  --->  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/upfit-project](https://github.com/maisappreis/dental-clinic-web-system)))
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
 - 👀 I'm interested in improving my backend knowledge
 - 🌱 I’m currently learning Python, Django and Node.js

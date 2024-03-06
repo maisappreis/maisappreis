@@ -11,30 +11,102 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Maisa
-- 🔭 I’m currently working on something nice!
+- 🔭 I’m currently working on 2 projects: <br/>
+                  -  Vue.js 3, Electron and Django project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
+                  -  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/upfit-project](https://github.com/maisappreis/dental-clinic-web-system)))
+- ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
 - 👀 I'm interested in improving my backend knowledge
-- ✨ My current knowledge is in JavaScript, TypeScript, HTML, CSS, ReactJS, VueJS, Angular and SQL
-- 🌱 I’m currently learning Python, Django, Flask and NodeJS
-- 📫 How to reach me: @maisappreis
+- 🌱 I’m currently learning Python, Django and Node.js
+- ⚡ I'm Microsoft Certified: Power BI Data Analyst Associate ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/23bd0e2e1d86834b?ref=https%3A%2F%2Fwww.linkedin.com%2F))
+- 📫 How to reach me on Linkedin: [maisa-pp-2303](https://www.linkedin.com/in/maisa-pp-2303/)
+- 👯 My current job is at [@MStarConsulting](https://github.com/MStarConsulting) company
 
 
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer.
+I am a Full Stack Developer with 3 years of experience in developing applications. <br/>
+I started my career with front-end development, so it's my area of expertise, but I know how to handle the back-end as well.
 <!--I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.-->
 
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 <br/>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/231304814-45bb6f19-d779-4905-981e-8a2098dcbda0.png" alt="vuejs" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://user-images.githubusercontent.com/113925909/231304814-45bb6f19-d779-4905-981e-8a2098dcbda0.png" alt="vuejs" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<br/>
 
-<a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/230390585-c3efe207-a0e2-48e0-98c4-2cebfd30139b.png" alt="express" height="40"/> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/230388365-9b753db9-1f3f-4d9c-ac2b-e30d688e6609.png" alt="flask" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/230391224-9f090eb2-15fd-471a-9b71-f580c4ce791c.png" alt="nodejs" height="40"/> </a> <a target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/230402102-b969b1dd-2516-4296-b124-6b1f4df433a0.png" alt="django" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+ 
+
+
+
+
+
+
+
+
+
+<a href="https://nodejs.org" target="_blank">
+<img src="https://user-images.githubusercontent.com/113925909/230391224-9f090eb2-15fd-471a-9b71-f580c4ce791c.png" alt="nodejs" height="40"/>
+</a> <a target="_blank"> <img src="https://user-images.githubusercontent.com/113925909/230402102-b969b1dd-2516-4296-b124-6b1f4df433a0.png" alt="django" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
 </p>
  
- <!-- 
-
-<a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/></a>
+ <!--
+ <a href="https://expressjs.com" target="_blank">
+<img src="https://user-images.githubusercontent.com/113925909/230390585-c3efe207-a0e2-48e0-98c4-2cebfd30139b.png" alt="express" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/113925909/230388365-9b753db9-1f3f-4d9c-ac2b-e30d688e6609.png" alt="flask" height="40" />
+</a>
+<a href="https://angular.io" target="_blank">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</a>
+<a href="https://cordova.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/>
+</a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>

@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 3 years of experience in developing applications. <br/>
+I am a Full Stack Developer with 2 years of experience in developing applications. <br/>
 I started my career with front-end development, so it's my area of expertise, but I know how to handle the back-end as well.
 <!--I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.-->
 

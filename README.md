@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Maisa
-- 🔭 I’m currently working on 2 projects: <br/>
+- 🔭 I’m currently working on 2 personal projects: <br/>
                   --->  Vue.js 3, Electron and Django project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
                   --->  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/dental-clinic-web-system))
+- 😄 Visit my Github Page: ([maisappreis.github.io](https://maisappreis.github.io/))
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
 - 👀 I'm interested in improving my backend knowledge
 - 🌱 I’m currently learning Python, Django and Node.js
@@ -25,9 +26,13 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 2 years of experience in developing applications. <br/>
-I started my career with front-end development, so it's my area of expertise, but I know how to handle the back-end as well.
-<!--I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.-->
+About 2 years ago, I discovered the software development area and I was enchanted. <br/>
+Even though I had a degree in Business Administration, I made the decision to become a developer. <br/>
+For 5 months I dedicated myself full time to studying and training, for 12 to 15 hours a day, before <br/>
+getting my first job in this area. Since then, I have been working in this same company, learning more <br/>
+and more, and falling in love, mainly, with front-end development.
+
+I am very dedicated to everything I do, I learn quickly and I am always willing to take on new challenges!
 
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools

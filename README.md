@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-About 2 years ago, I discovered the software development area and I was enchanted. <br/>
+About 2 years ago, I discovered the software development and I was enchanted. <br/>
 Even though I had a degree in Business Administration, I made the decision to become a developer. <br/>
 For 5 months I dedicated myself full time to studying and training, for 12 to 15 hours a day, before <br/>
-getting my first job in this area. Since then, I have been working in this same company, learning more <br/>
-and more, and falling in love, mainly, with front-end development.
+getting my first job in this area. Since then, I have been working in this same company, I got a Lato <br/>
+Sensu degree in Software Analysis and Development, and I'm learning more and more, falling in <br/>
+love, mainly, with front-end development.
 
 I am very dedicated to everything I do, I learn quickly and I am always willing to take on new challenges!
 

@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 About 2 years ago, I discovered the software development and I was enchanted. <br/>
 Even though I had a degree in Business Administration, I made the decision to become a developer. <br/>
 For 5 months I dedicated myself full time to studying and training, for 12 to 15 hours a day, before <br/>
-getting my first job in this area. Since then, I have been working in this same company, I got a Lato <br/>
-Sensu degree in Software Analysis and Development, and I'm learning more and more, falling in <br/>
-love, mainly, with front-end development.
+getting my first job in this area. Since then, I got a Lato Sensu degree in Software Analysis and Development, <br/>
+I have been working in this same company, where I worked on two large applications for the Brazilian state <br/>
+company Petrobrás, and I gained good knowledge in Vue.js, React, Django and Python. Always learning more and more!
 
 I am very dedicated to everything I do, I learn quickly and I am always willing to take on new challenges!
 

@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Maisa
 - 🔭 I’m currently working on 2 personal projects: <br/>
-                  --->  Vue.js 3, Electron and Django project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
-                  --->  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/dental-clinic-web-system))
+                  --->  Vue.js 3, TypeScript and Pinia project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
+                  --->  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/dental-clinic-web-system)) <br/>
+                  --->  Django project ([see here](https://github.com/maisappreis/django-APIs)) <br/>
 - 😄 Visit my Github Page: ([maisappreis.github.io](https://maisappreis.github.io/))
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
-- 👀 I'm interested in improving my backend knowledge
-- 🌱 I’m currently learning Python, Django and Node.js
-- ⚡ I'm Microsoft Certified: Power BI Data Analyst Associate ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/23bd0e2e1d86834b?ref=https%3A%2F%2Fwww.linkedin.com%2F))
+- 🌱 I’m currently improving my backend knowledge with Python, Golang, Django and Node.js
+- ⚡ I'm Microsoft Certified:  <br/>
+                  --->  Power BI Data Analyst Associate ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/23bd0e2e1d86834b?ref=https%3A%2F%2Fwww.linkedin.com%2F)) <br/>
+                  --->  Azure Fundamentals ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/1e639117d2ba788e?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 - 📫 How to reach me on Linkedin: [maisa-pp-2303](https://www.linkedin.com/in/maisa-pp-2303/)
 - 👯 My current job is at [@MStarConsulting](https://github.com/MStarConsulting) company
 

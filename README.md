@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Maisa
 - 🔭 I’m currently working on 2 personal projects: <br/>
-                  --->  Vue.js 3, TypeScript and Pinia project ([see here](https://github.com/maisappreis/upfit-project)) <br/>
-                  --->  Next.js, React.js and TypeScript project ([see here](https://github.com/maisappreis/dental-clinic-web-system)) <br/>
-                  --->  Django project ([see here](https://github.com/maisappreis/django-APIs)) <br/>
-- 😄 Visit my Github Page: ([maisappreis.github.io](https://maisappreis.github.io/))
+                  --->  Vue.js 3, TypeScript and Pinia project ([See code](https://github.com/maisappreis/upfit-project)) ([Test online](https://maisappreis.github.io/upfit-gym)) <br/>
+                  --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) ([Test online](https://maisappreis.github.io/dental-clinic))<br/>
+                  --->  Django project ([See code](https://github.com/maisappreis/django-APIs)) <br/>
+- 😄 Visit my Github Page: [maisappreis.github.io](https://maisappreis.github.io/)
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
 - 🌱 I’m currently improving my backend knowledge with Python, Golang, Django and Node.js
 - ⚡ I'm Microsoft Certified:  <br/>

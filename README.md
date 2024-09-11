@@ -28,14 +28,11 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-About 2 years ago, I discovered the software development and I was enchanted. <br/>
-Even though I had a degree in Business Administration, I made the decision to become a developer. <br/>
-For 5 months I dedicated myself full time to studying and training, for 12 to 15 hours a day, before <br/>
-getting my first job in this area. Since then, I got a Lato Sensu degree in Software Analysis and Development, <br/>
-I have been working in this same company, where I worked on two large applications for the Brazilian state <br/>
-company Petrobrás, and I gained good knowledge in Vue.js, React, Django and Python. Always learning more and more!
+Software Engineer passionate about modeling and solving problems by coding, constantly adapting to new environments, learning new technologies, and contributing to collaborative environments.
 
-I am very dedicated to everything I do, I learn quickly and I am always willing to take on new challenges!
+I am committed to business objectives and have a strong ability to work as part of a team, both in Backend and Frontend development. I firmly believe in the importance of collaboration and mutual support between colleagues to achieve quality results and drive company success.
+
+New challenges and technologies are always more than welcome. Keep coding!!
 
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools

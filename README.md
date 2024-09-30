@@ -16,8 +16,8 @@ Here are some ideas to get you started:
                   --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) ([Test online](https://maisappreis.github.io/dental-clinic))<br/>
                   --->  Django project ([See code](https://github.com/maisappreis/django-APIs)) <br/>
 - 😄 Visit my Github Page: [maisappreis.github.io](https://maisappreis.github.io/)
-- ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript and SQL
-- 🌱 I’m currently improving my backend knowledge with Python, Golang, Django and Node.js
+- ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript, SQL, Python and Django.
+- 🌱 I’m currently learning Golang and Machine Learning.
 - ⚡ I'm Microsoft Certified:  <br/>
                   --->  Power BI Data Analyst Associate ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/23bd0e2e1d86834b?ref=https%3A%2F%2Fwww.linkedin.com%2F)) <br/>
                   --->  Azure Fundamentals ([see here](https://learn.microsoft.com/pt-br/users/maisapierinipreis-4177/credentials/1e639117d2ba788e?ref=https%3A%2F%2Fwww.linkedin.com%2F))

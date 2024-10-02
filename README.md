@@ -8,12 +8,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+([Test online](https://maisappreis.github.io/upfit-gym))
+([Test online](https://maisappreis.github.io/dental-clinic))
 -->
 
 - 👋 Hi, I’m Maisa
 - 🔭 I’m currently working on 2 personal projects: <br/>
-                  --->  Vue.js 3, TypeScript and Pinia project ([See code](https://github.com/maisappreis/upfit-project)) ([Test online](https://maisappreis.github.io/upfit-gym)) <br/>
-                  --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) ([Test online](https://maisappreis.github.io/dental-clinic))<br/>
+                  --->  Vue.js 3, TypeScript and Pinia project ([See code](https://github.com/maisappreis/upfit-project)) <br/>
+                  --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) <br/>
                   --->  Django project ([See code](https://github.com/maisappreis/django-APIs)) <br/>
 - 😄 Visit my Github Page: [maisappreis.github.io](https://maisappreis.github.io/)
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript, SQL, Python and Django.

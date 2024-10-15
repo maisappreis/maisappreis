@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Maisa
-- 🔭 I’m currently working on 2 personal projects: <br/>
+- 🔭 I’m currently working on this projects: <br/>
+                  --->  Vue.js 3, TypeScript, Vitest, Pinia and Leaflet project ([See code](https://github.com/maisappreis/equipment-locator/)) <br/>
                   --->  Vue.js 3, TypeScript and Pinia project ([See code](https://github.com/maisappreis/upfit-project)) <br/>
                   --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) <br/>
                   --->  Django project ([See code](https://github.com/maisappreis/django-APIs)) <br/>

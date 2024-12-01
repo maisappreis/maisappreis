@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Maisa
+- 😄 Visit my Portfolio Website: [maisappreis.github.io](https://maisappreis.github.io/)
 - 🔭 I’m currently working on this projects: <br/>
-                  --->  Vue.js 3, TypeScript, Vitest, Pinia and Leaflet project ([See code](https://github.com/maisappreis/equipment-locator/)) <br/>
                   --->  Vue.js 3, TypeScript and Pinia project ([See code](https://github.com/maisappreis/upfit-project)) <br/>
                   --->  Next.js, React.js and TypeScript project ([See code](https://github.com/maisappreis/dental-clinic)) <br/>
                   --->  Django project ([See code](https://github.com/maisappreis/django-APIs)) <br/>
-- 😄 Visit my Github Page: [maisappreis.github.io](https://maisappreis.github.io/)
+                  --->  Vue.js 3, TypeScript, Vitest, Pinia and Leaflet project ([See code](https://github.com/maisappreis/equipment-locator/)) <br/>
 - ✨ My current knowledge is in Vue.js, React.js, HTML5, CSS3, JavaScript, TypeScript, SQL, Python and Django.
 - 🌱 I’m currently learning Golang and Machine Learning.
 - ⚡ I'm Microsoft Certified:  <br/>
